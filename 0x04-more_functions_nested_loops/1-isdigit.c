@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * isdigit - chexka if a char is a digiy
+ * isdigit - checks if a char is a digit
  * @c: int to be checked
  * Return: 1 if c is a digit, 0 otherwise
  */
